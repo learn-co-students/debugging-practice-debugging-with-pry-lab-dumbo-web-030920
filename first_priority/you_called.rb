@@ -1,7 +1,9 @@
 
 
-super_mario_party
 
 def super_mario_party
-  "Sorry, your princess is in another castle"
+  name =  "Sorry, your princess is in another castle"
+  name
 end
+
+super_mario_party
